@@ -1,2 +1,2 @@
 FROM simsemand/chronos:latest
-RUN apk add  --no-cache ffmpeg
+RUN apt-get install -y ffmpeg
