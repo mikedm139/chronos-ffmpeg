@@ -1,2 +1,2 @@
 # chronos-ffmpeg
-Attempt to Build chronos with ffmpeg support
+Attempt to Build simse/chronos with ffmpeg support
